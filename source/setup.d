@@ -8,9 +8,9 @@ import std.socket: SocketException, getAddress;
 import std.regex: Regex, regex, matchFirst;
 import std.stdio: write, writeln, readln;
 import std.conv: ConvException, parse;
-import std.range: array, enumerate;
 import std.path: isValidFilename;
 import std.file: exists, isFile;
+import std.range: enumerate;
 import std.algorithm: sort;
 import std.utf: toUTF16z;
 
