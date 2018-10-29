@@ -1,0 +1,3 @@
+[submodule "source/pdcurses"]
+	path = source/pdcurses
+	url = https://github.com/spikespaz/pdcurses4d
